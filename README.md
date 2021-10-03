@@ -19,6 +19,7 @@ $ npm install -g @angular/cli
 $ pushd ..
 $ ng new angular-spike
 $ popd
+$ ng add @angular/material
 ```
 
 I appended the Github Node .gitignore to the Angular CLI .gitignore.
