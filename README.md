@@ -25,7 +25,13 @@ $ ng add @angular/material
 I appended the Github Node .gitignore to the Angular CLI .gitignore.
 
 
+## HTTP client
 
+[HTTP client guide](https://angular.io/guide/http)
+
+```
+ng generate service config
+```
 
 
 
