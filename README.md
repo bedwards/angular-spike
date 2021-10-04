@@ -27,11 +27,7 @@ I appended the Github Node .gitignore to the Angular CLI .gitignore.
 
 ## HTTP client
 
-[HTTP client guide](https://angular.io/guide/http)
-
-```
-ng generate service config
-```
+[HTTP POST examples](https://jasonwatmore.com/post/2019/11/21/angular-http-post-request-examples)
 
 
 
